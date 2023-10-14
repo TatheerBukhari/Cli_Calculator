@@ -1,3 +1,4 @@
 #! /usr/bin/env node
+import Calulator from "./Calculator.js"
 
-Calulator();import Calulator from "./Calculator.js"
+Calulator();
